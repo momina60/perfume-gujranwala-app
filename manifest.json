@@ -1,0 +1,20 @@
+{
+  "name": "Perfume in Gujranwala",
+  "short_name": "Perfume Shop",
+  "description": "Best perfume shop in Gujranwala — genuine Lattafa, Armaf, long lasting and low price perfumes.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0d0d0d",
+  "theme_color": "#121212",
+  "icons": [
+    {
+      "src": "images/logo-crest.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
+
